@@ -1,0 +1,10 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+
+cout<<"Hey there is a new recipe"<<'\n;
+return 0;
+}
